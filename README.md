@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @lidimi
-# 👀 I’m interested in HTML, CSS & JAVASCRIPT
+# 👀 I’m interested in Web Development
 # 🌱 I’m currently learning:
 -  HTML Accessibility
 -  JavaScript
