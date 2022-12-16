@@ -2,7 +2,7 @@
 # 👀 I’m interested in HTML, CSS & JAVASCRIPT
 # 🌱 I’m currently learning:
 -  HTML Accessibility
--  Javascript
+-  JavaScript
 -  I'm planning to start learning React on January 2023
 
 <!---
