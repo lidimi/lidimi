@@ -3,7 +3,8 @@
 # 🌱 I’m currently learning:
 -  HTML Accessibility
 -  JavaScript
--  I'm planning to start learning React on January 2023
+-  React
+-   
 
 <!---
 lidimi/lidimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
